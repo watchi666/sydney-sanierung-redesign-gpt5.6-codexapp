@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://sydney-sanierung-redesign-gpt5-6-codexapp.vercel.app/sitemap.xml
