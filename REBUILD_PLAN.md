@@ -1,5 +1,32 @@
 # Rebuild-Plan: Sydney Sanierung
 
+## Redesign Pass 2: Cinematic Craft Atelier
+
+### Aesthetic direction
+
+Die zweite Fassung wird als **cinematic craft atelier** inszeniert: rußschwarzer Raum, warmes Metalllicht, feine Serifentypografie und echte fertige Arbeiten als schwebende Materialkörper. Die Website soll weniger wie eine zusammengesetzte Handwerker-Landingpage und mehr wie ein begehbares Portfolio wirken. Referenz ist die räumliche Tiefe einer dunklen Ausstellung, nicht ein Kartenraster.
+
+### Homepage sections
+
+1. **Hero:** Vollbildbühne mit Text links und einer langsam rotierenden 3D-Projektrolle rechts. Die Rolle reagiert auf Mausrad und Ziehen; jedes Bild öffnet sich vergrößert. Ausschließlich fertige Arbeiten.
+2. **Manifest:** Heller, großzügiger Gegenraum mit einer überbreiten Aussage und einem einzelnen starken Wohnraumbild. Kein Statistikstreifen.
+3. **Leistungen:** Dunkle, zweigeteilte Arbeitsbühne. Links wechselt ein großes Bild, rechts stehen die Leistungen als typografische Liste statt Karten.
+4. **Referenzen:** Horizontal wirkender Bildfilm mit stark unterschiedlichen Formaten und ruhigen Beschriftungen.
+5. **Stockum:** Echter Vorher/Nachher-Vergleich über die volle Breite; Baustellenbilder nur hier und eindeutig als Prozess markiert.
+6. **Ablauf:** Helles Materialpapier mit einer durchgehenden Linie und vier echten Phasen.
+7. **Stimme:** Eine dominante Kundenstimme als große typografische Unterbrechung statt zweier Karten.
+8. **FAQ und Kontakt:** Ruhige helle Fragen, danach ein dunkler Schlussraum mit großer Telefonnummer und reduziertem Formular.
+
+### Wow moment
+
+Die Hero-Projektrolle ist ein räumlicher Ring aus fertigen Arbeiten. Sie dreht sich langsam von selbst, lässt sich scrollen und ziehen, reagiert mit Tiefenschärfe und Licht und holt ein angeklicktes Bild in eine fokussierte Großansicht. Sie ist kein Dekoeffekt, sondern die Referenzgalerie im ersten Blick.
+
+### Image discipline
+
+- Hero und Startseitenreferenzen: nur eindeutig fertige Räume und Oberflächen.
+- Stockum-Treppe: nicht als fertiges Hero-Motiv, weil die Umgebung in den vorhandenen Aufnahmen noch im Ausbau ist.
+- Baustelle und Rohbau: ausschließlich im Stockum-Vergleich oder auf der Stockum-Galerieseite.
+
 ## Markenextraktion und Ausgangslage
 
 Sydney Sanierung verbindet Komplettsanierung, Innenausbau, Trockenbau, Bodenverlegung und kreative Wandgestaltung. Das vorhandene Material zeigt sowohl fertige Räume als auch echte Bauphasen. Der neue Auftritt trennt diese Bildtypen bewusst: Die Startseite verkauft das Ergebnis, die Stockum-Seite belegt den Weg dorthin.

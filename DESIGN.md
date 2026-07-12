@@ -1,5 +1,17 @@
 # Designsystem: Sydney Sanierung
 
+## Redesign Pass 2
+
+Die erste Umsetzung war zu blockhaft und zu nah an einer generischen Handwerker-Landingpage. Pass 2 verschiebt die Marke in ein **cinematic craft atelier**.
+
+- **Display:** Prata, wie eine fein gravierte Materialplakette, ruhig und hochkontrastreich.
+- **Body/UI:** Manrope, technisch klar, ohne industrielles Klischee.
+- **Farbe:** Ruß `#0d0c0a`, Knochen `#f0eadf`, Metallgold `#d79a55`, gebranntes Orange nur als kleiner Markenkern.
+- **Licht:** weiche radiale Glut, feine Staubpunkte, tiefe Bildschatten.
+- **Form:** keine CTA-Rechtecke als Hauptmotiv; pillenartige Aktionen mit feiner Kontur, große Bilder ohne Kartenrahmen.
+- **Bewegung:** langsame 3D-Rotation, Tiefenstaffelung, Clip-Wipes und ruhige Textreveal-Bewegung. Reduced Motion bleibt vollständig unterstützt.
+- **Hero ceiling:** maximal 5.75rem / 92px.
+
 ## 1. Visual Theme & Atmosphere
 
 Sydney Sanierung wirkt wie ein präzises Bauatelier: dunkle, ruhige Flächen tragen echte Projektbilder, verbranntes Orange markiert Handlung und Energie, Kalkweiß schafft Luft. Die Gestaltung übersetzt die vorhandene Handwerkermarke in einen erwachsenen, architektonischen Auftritt, ohne ihre Direktheit zu verlieren.

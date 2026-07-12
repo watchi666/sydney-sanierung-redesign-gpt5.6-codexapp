@@ -2,6 +2,20 @@
 
 Stand: 12. Juli 2026
 
+## Redesign Pass 2
+
+- Direkter visueller Vergleich mit `sydney-sanierung-redesign-webcreato.vercel.app` durchgeführt.
+- Hero vollständig neu aufgebaut: Prata/Manrope, atmosphärische Lichtbühne und 3D-Projektrolle statt statischer 5/7-Bildaufteilung.
+- Hero bei 1280 × 720 geprüft: H1, Einleitung und beide CTAs vollständig sichtbar; sechs Ringflächen liegen im sichtbaren Bühnenbereich.
+- Mobile bei ca. 375 × 812 geprüft: H1 bricht sauber, Telefonnummer und Menü sind sichtbar, beide CTAs bleiben erreichbar.
+- Mobile Navigation öffnet und schließt korrekt.
+- Projektrolle rotiert automatisch, reagiert auf Mausrad und Pointer-Drag und besitzt fokussierbare Bildschaltflächen.
+- Startseiten-Bildaudit wiederholt: Bad-, Fliesen-, Fortuna- und Treppenaufnahmen mit sichtbarem Ausbauzustand aus Hero, Leistungsbühne und Referenzfilm entfernt.
+- Baustellenbilder bleiben auf den Stockum-Prozess und den echten Vorher/Nachher-Vergleich begrenzt.
+- Reveal-Fallback ergänzt, damit große Bildflächen auch bei schnellem Scrollen oder direktem Einsprung sichtbar werden.
+- Alle HTML-Referenzen, H1-Strukturen, IDs und Alt-Texte erneut geprüft: ohne Fehler.
+- JavaScript-Syntax und `git diff --check`: ohne Fehler.
+
 ## Geprüft
 
 - Startseite, Stockum-Projektseite, Impressum, Datenschutz, 404, robots.txt und sitemap.xml liefern lokal HTTP 200.

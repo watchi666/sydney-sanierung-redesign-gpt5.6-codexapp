@@ -32,6 +32,16 @@
       });
     }, { threshold: .14, rootMargin: '0px 0px -8% 0px' });
     revealItems.forEach((item) => observer.observe(item));
+    const revealVisibleItems = () => revealItems.forEach((item) => {
+      if (item.classList.contains('is-visible')) return;
+      const rect = item.getBoundingClientRect();
+      if (rect.top < window.innerHeight * .96 && rect.bottom > 0) {
+        item.classList.add('is-visible');
+        observer.unobserve(item);
+      }
+    });
+    window.addEventListener('scroll', revealVisibleItems, { passive: true });
+    window.requestAnimationFrame(revealVisibleItems);
   }
 
   const serviceImage = document.querySelector('[data-service-image]');

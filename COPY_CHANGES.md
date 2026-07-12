@@ -1,5 +1,12 @@
 # Copy Changes
 
+## Redesign Pass 2
+
+- Neue Hero-Aussage: „Sanierung, die Räume vollendet.“ Sie benennt Leistung und Ergebnis direkter als „Räume. Fertig gedacht.“
+- Die Startseite folgt nun einer klaren Erzählung: Haltung, Leistungen, fertige Arbeiten, belegter Stockum-Prozess, Arbeitsweise, Kundenstimme, Fragen, Kontakt.
+- Abschnittsüberschriften wurden stärker differenziert und die wiederholte Grotesk-Kurzsatzmechanik reduziert.
+- Bildtexte unterscheiden fertige Ergebnisse klar von Ausbau- und Rohbauzuständen.
+
 ## Positionierung
 
 Die neue Leitidee „Räume. Fertig gedacht.“ positioniert Sydney Sanierung als koordinierten Ausbaupartner statt als lose Sammlung einzelner Gewerke.
